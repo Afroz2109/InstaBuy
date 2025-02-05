@@ -71,7 +71,7 @@ img.CompanyLogo {
         font-size: 0.5rem;
     }
     img.homeScreen {
-        height: 30vh;
+        height: 20vh;
         width: 100%;
     }
     h4.Company {
@@ -225,7 +225,7 @@ img.CompanyLogo {
         height: 30vh;
         width: 46%;
         margin-left: 45%;
-        margin-top: -37%;
+        margin-top: -39%;
       }
       button.viewbtn.btn.btn-primary {
         width: 99% !important;
